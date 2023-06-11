@@ -1,6 +1,7 @@
 .dropdown-toggle{
     color: #08849b;
 }
+
 .ftr{
     background-color: #08849b;
 }
@@ -9,6 +10,12 @@
 }
 .courses .text{
     color: #08849b;
+}
+.Spotlight h5{
+    color: white;
+}
+.review h5{
+    color:#08849b
 }
 .program-cat {
     position: relative;
