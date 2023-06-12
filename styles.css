@@ -97,3 +97,8 @@
 .acronym{
     font-style: italic;
 }
+
+.btn-lg{
+    background-color: #08849b;
+    color: #fff;
+}
