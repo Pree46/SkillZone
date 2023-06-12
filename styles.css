@@ -70,7 +70,6 @@
     display: inline-flex;
     flex-wrap: wrap;
     align-items: end !important;
-
     background-color: #08849b !important;
 }
 
@@ -94,4 +93,7 @@
 
 .dot{
     color: #08849b;
+}
+.acronym{
+    font-style: italic;
 }
