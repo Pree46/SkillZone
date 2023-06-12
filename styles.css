@@ -78,3 +78,20 @@
     color: #08849b;
     font-weight: bold;
 }
+
+.hero1{
+    background-color: #08849b;
+}
+
+.lead p{
+    color: black;
+    font-weight: bold !important;
+}
+
+.faculty{
+    background-color: #08849b;
+}
+
+.dot{
+    color: #08849b;
+}
