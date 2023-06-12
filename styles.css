@@ -2,6 +2,12 @@
     color: #08849b;
 }
 
+.form-control{
+    display: flex;
+    flex-direction: column-reverse;
+    align-content:end;
+}
+
 .ftr{
     background-color: #08849b;
 }
@@ -57,4 +63,18 @@
 }
 .carousel-item img{
     opacity: 65%;
+}
+
+.Login button{
+    height:fit-content;
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: end !important;
+
+    background-color: #08849b !important;
+}
+
+.topbar p{
+    color: #08849b;
+    font-weight: bold;
 }
