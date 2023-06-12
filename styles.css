@@ -55,3 +55,6 @@
     text-transform: uppercase;
     color: transparent;
 }
+.carousel-item img{
+    opacity: 65%;
+}
